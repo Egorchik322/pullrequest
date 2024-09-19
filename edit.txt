@@ -1,2 +1,2 @@
-name:
-second_name:
+name:Egor
+second_name:Baleev
